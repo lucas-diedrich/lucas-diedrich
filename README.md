@@ -20,6 +20,12 @@ Hi, nice to meet you! I'm Lucas.
 I study biochemistry in my master's at Heidelberg University. Currently I am located at the Shalek Lab in Boston. 
 My interests lay in using computatinal approaches to better understand cellular biology in the context of diseases and cellular dysfunction. I am especially fascinated by omics technologies and new methods to extract biological knowledge from these vast amounts of data!
 
+## Programming
+
+### Languages 
+- Python (numpy, pandas, matplotlib, seaborn, scikit-learn, scipy, snakemake)
+- R (tidyverse)
+
 ## Previous projects 
 - Data scraping from public resources + prediction of effects on protein function 
 - Chemoinformatics + Molecular Dynamics simulations

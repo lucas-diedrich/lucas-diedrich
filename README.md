@@ -23,8 +23,16 @@ My interests lay in using computatinal approaches to better understand cellular 
 ## Programming
 
 ### Languages 
-- Python (numpy, pandas, matplotlib, seaborn, scikit-learn, scipy, snakemake)
+- Python (numpy, pandas, matplotlib, seaborn, scikit-learn, scipy)
 - R (tidyverse)
+
+### Scientific tools 
+- scverse
+- snakemake
+- Seurat
+
+### Currently learning 
+- PyTorch
 
 ## Previous projects 
 - Data scraping from public resources + prediction of effects on protein function 

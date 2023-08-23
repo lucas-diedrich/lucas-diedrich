@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Hi, nice to meet you! I'm Lucas. 
 
 I study biochemistry in my master's at Heidelberg University. Currently I am located at the Shalek Lab in Boston. 
-My interests lay in using computatinal approaches to better understand cellular biology in the context of diseases and cellular dysfunction. I am especially fascinated by omics technologies and new methods to extract biological knowledge from these vast amounts of data!
+My interests lay in using computational approaches to better understand cellular biology in the context of diseases and cellular dysfunction. I am especially fascinated by omics technologies and new methods to extract biological knowledge from these vast amounts of data!
 
 ## Programming
 

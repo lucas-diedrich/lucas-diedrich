@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+.filter-green{
+    filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);
+}
+
 <!--
 **lucas-diedrich/lucas-diedrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +27,7 @@ My interests lay in using computational approaches to better understand cellular
 ## Programming
 
 ### Languages 
-<a> <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg alt="Python" width="40" height="40"/> </a>
+<div> <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg class=filter-green alt="Python" width="40" height="40"/> </div>
 
 - Python (numpy, pandas, matplotlib, seaborn, scikit-learn, scipy) 
 - R (tidyverse)

@@ -27,7 +27,7 @@ My interests lay in using computational approaches to better understand cellular
 ## Programming
 
 ### Languages 
-<div> <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg class=filter-green alt="Python" width="40" height="40"/> </div>
+<a> href=https://www.python.org/ <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg class=filter-green alt="Python" width="40" height="40"/> </a>
 
 - Python (numpy, pandas, matplotlib, seaborn, scikit-learn, scipy) 
 - R (tidyverse)

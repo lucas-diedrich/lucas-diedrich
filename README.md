@@ -27,6 +27,9 @@ My interests lay in using computational approaches to better understand cellular
 💬 *Ask me about* data analysis workflows, data visualization
 
 
+Connect  
+🔗 (lucas-diedrich.github.io)[https://lucas-diedrich.github.io/]
+🐦 [Twitter](https://twitter.com/lucas__1406)
 <!-- 
 ## Programming
 

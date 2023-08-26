@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-.filter-green{
-    filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);
-}
-
 <!--
 **lucas-diedrich/lucas-diedrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,9 +17,17 @@ Here are some ideas to get you started:
 
 Hi, nice to meet you! I'm Lucas. 
 
-I study biochemistry in my master's at Heidelberg University. Currently I am located at the Shalek Lab in Boston. 
-My interests lay in using computational approaches to better understand cellular biology in the context of diseases and cellular dysfunction. I am especially fascinated by omics technologies and new methods to extract biological knowledge from these vast amounts of data!
+My interests lay in using computational approaches to better understand cellular biology in the context of diseases and cellular dysfunction. I believe that in computational biology, the best way to gain deeper insights into these questions is through **open** and **reproducible** data analysis workflows and software. 
 
+
+🔭 *I am currently* studying biochemistry in Heidelberg (currently located in Boston)
+
+🌱 *I am learning* best practices in scientific software development and deep learning with pyTorch
+
+💬 *Ask me about* data analysis workflows, data visualization
+
+
+<!-- 
 ## Programming
 
 ### Languages 
@@ -53,3 +57,4 @@ I am currently looking how to contribute to scientific software development
 
 ## Reach out! 
 Reach me on [Twitter](https://twitter.com/lucas__1406)
+--> 

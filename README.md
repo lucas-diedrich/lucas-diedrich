@@ -27,6 +27,8 @@ My interests lay in using computational approaches to better understand cellular
 💬 *Ask me about* data analysis workflows, data visualization
 
 
+**Languages** 
+Python, R, Bash 
 
 
 **Find me** 

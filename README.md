@@ -31,11 +31,7 @@ My interests lay in using computational approaches to better understand cellular
 Python, R, Bash 
 
 
-**Find me** 
-
-🔗 [lucas-diedrich.github.io](https://lucas-diedrich.github.io/)
-
-🐦 [@lucas__1406](https://twitter.com/lucas__1406)
+**Find me**   🔗 [lucas-diedrich.github.io](https://lucas-diedrich.github.io/)    🐦 [@lucas__1406](https://twitter.com/lucas__1406)
 <!-- 
 ## Programming
 

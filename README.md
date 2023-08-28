@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hi, nice to meet you! I'm Lucas. 
 
-My interests lay in using computational approaches to better understand cellular biology in the context of diseases and cellular dysfunction. I believe that in computational biology, the best way to gain deeper insights into these questions is through **open** and **reproducible** data analysis workflows and software. 
+My interests lay in using computational approaches to better understand cellular biology in the context of diseases and cellular dysfunction. I hope to contribute to a deeper understanding of these questions with **open** and **reproducible** data analysis workflows and software. 
 
 
 🔭 *I am currently* studying biochemistry in Heidelberg (currently located in Boston)

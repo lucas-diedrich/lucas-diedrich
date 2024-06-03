@@ -20,9 +20,9 @@ Hi, nice to meet you! I'm Lucas.
 My interests lay in using computational approaches to better understand cellular biology in the context of diseases and cellular dysfunction. I hope to contribute to a deeper understanding of these questions with open and reproducible data analysis workflows and software. 
 
 
-🔭 *I am currently* studying biochemistry in Heidelberg (currently located in Boston)
+🔭 *I am currently* a grad student in biochemistry at the University Heidelberg (currently located in Boston)
 
-🌱 *I am learning* best practices in scientific software development and deep learning with pyTorch
+🌱 *I am learning* best practices in scientific software development and deep learning with PyTorch
 
 💬 *Ask me about* data analysis workflows, data visualization
 
@@ -48,6 +48,7 @@ Python, R, Bash
 
 ### Packages 
 - ipathapy
+- scCoral
 
 ### Currently learning 
 - PyTorch

@@ -20,7 +20,7 @@ Hi, nice to meet you! I'm Lucas.
 My interests lie in using computational approaches to better understand cellular biology in the context of diseases and cellular dysfunction. I hope to contribute to a deeper understanding of these questions with open and reproducible data analysis workflows and software. 
 
 
-🔭 *I am currently* an incoming grad student in computational biology at the [Max-Planck-Institute of Biochemistry](https://www.biochem.mpg.de/mann)
+🔭 *I am currently* a grad student in computational biology at the [Max-Planck-Institute of Biochemistry](https://www.biochem.mpg.de/mann)
 
 🌱 *I am learning* best practices in scientific software development and deep learning with PyTorch
 

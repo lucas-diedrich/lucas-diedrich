@@ -20,7 +20,7 @@ Hi, nice to meet you! I'm Lucas.
 My interests lie in using computational approaches to better understand cellular biology in the context of diseases and cellular dysfunction. I hope to contribute to a deeper understanding of these questions with open and reproducible data analysis workflows and software. 
 
 
-🔭 *I am currently* a grad student in computational biology at the [Max-Planck-Institute of Biochemistry](https://www.biochem.mpg.de/mann)
+🔭 *I am currently* a grad student in computational biology in the [Mann Lab](https://www.biochem.mpg.de/7698134/people) at the [Max-Planck-Institute of Biochemistry](https://www.biochem.mpg.de/mann)
 
 🌱 *I am learning* best practices in scientific software development and deep learning with PyTorch
 
@@ -31,7 +31,9 @@ My interests lie in using computational approaches to better understand cellular
 Python, R, Bash 
 
 
-**Find me**   🔗 [lucas-diedrich.github.io](https://lucas-diedrich.github.io/)    🐦 [@lucas__1406](https://twitter.com/lucas__1406)
+**Find me**   
+🔗 [lucas-diedrich.github.io](https://lucas-diedrich.github.io/)
+🦋 [@lucas-diedrich.bsky.social](https://bsky.app/profile/lucas-diedrich.bsky.social)
 <!-- 
 ## Programming
 
@@ -42,13 +44,14 @@ Python, R, Bash
 - R (tidyverse)
 
 ### Scientific tools 
-- scverse
+- scVerse
 - snakemake
 - Seurat
 
 ### Packages 
-- ipathapy
 - scCoral
+- dvpio
+- ipathapy
 
 ### Currently learning 
 - PyTorch
